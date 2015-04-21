@@ -3,7 +3,7 @@
 ## Development
 
 ### To query DOM selectors use:
-`$do.el('selector')`
+`$do.el('selector')` <br>
 `$do.el('.container')`
 
 ### To handle event listener use:
